@@ -1,0 +1,15 @@
+img{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    vertical-align: middle;
+}
+h1{
+    margin-bottom: 0px;
+}
+p{
+    margin-top: 0px;
+}
+input{
+    margin: 10px;
+}

@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.container{
+    width: 950px;
+    background-color: silver;
+    margin: 0 auto;
+    padding: 2%;
+}
+.top-nav{
+    height: 150px;
+    background-color: green;
+}

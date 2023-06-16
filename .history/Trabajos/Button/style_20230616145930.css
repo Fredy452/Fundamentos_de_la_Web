@@ -1,0 +1,10 @@
+*{
+    margin-left: 2%;
+    margin-top: 2%;
+}
+button{
+    display:block;
+}
+.search{
+    background-color:white;
+}

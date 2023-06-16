@@ -1,0 +1,8 @@
+h1{
+    background-color: black;
+    color: azure;
+    padding: 5px 10px 5px;
+}
+h1, span{
+    color:aqua;
+}
